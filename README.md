@@ -8,7 +8,7 @@ For example, a U.S. footwear manufacturer uses shoelaces and other materials mad
 
 
 GDP is be calculated using the formula:
-  #GDP = Consumptions +  Investments + Government Spending + (Exports – Imports)
+#GDP = Consumptions +  Investments + Government Spending + (Exports – Imports)
 
 ![image](https://user-images.githubusercontent.com/59421381/194752641-10906a5e-b7fc-4b4a-8271-f01993a4bc07.png)
 
