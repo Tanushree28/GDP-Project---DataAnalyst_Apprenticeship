@@ -22,14 +22,9 @@ The data is sourced from the World Bank which in  turn lists as sources: World B
 
 Since GDP is aﬀected by lots of factors such as education, health, environment,  etc. We will be considering the Financial Sector (which includes Assets, Capital  Market), Economic Policy and Debt (which includes External Debt Net Flow), Public  Sector(which includes Government Sector expenses and Revenue) and Private  Sector(Export, Import and Private Infrasture Investment).
 
-Regards, 
-
-Tanushree Nepal
-(LinkedIn: https://www.linkedin.com/in/tanushree-nepal/)
 
 
-
-#License
+# License
 
 MIT License
 
@@ -52,3 +47,8 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
+
+Regards, 
+
+Tanushree Nepal
+(LinkedIn: https://www.linkedin.com/in/tanushree-nepal/)
